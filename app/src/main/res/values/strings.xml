@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parceler Demo</string>
+    <string name="activity_main_intro">Clicca per aprire l\'Activity di destinazione passando dei dati parcellizzabili.</string>
+    <string name="activity_main_button">Apri Activity di destinazione</string>
+    <string name="activity_target_no_parcelable">Nessun dato parcellizzabile trovato nell\'Intent.</string>
+    <string name="activity_target_intro">"Dati parcellizzati: "</string>
+</resources>
